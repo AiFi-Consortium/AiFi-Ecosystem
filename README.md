@@ -2,7 +2,7 @@
 
 **Definition of AiFi:** AiFi (Artificial Intelligence Finance, pronounced “A-I-fye”) brings AI assets—such as GPUs, models, data, and IP—onchain by leveraging composable, decentralized infrastructure (e.g., DeFi). By tokenizing these underutilized resources into tradable digital commodities, AiFi unlocks liquidity, broadens investor access, and opens new financing pathways—ultimately catalyzing capital flows and innovation across the AI ecosystem. (Note: AiFi does not imply fully commoditizing core IP or entire models, but rather enabling new financial mechanisms around AI-related resources and rights.)
 
-![AiFi Ecosystem Map](AiFi%20Ecosystem%20Map.png)
+![AiFi Ecosystem Map](https://github.com/user-attachments/assets/c24bcbd4-787a-4eb3-a840-54a77501599f)
 
 A curated overview of projects and protocols building at the frontier of AiFi. Each table below covers a specific “tokenization” category, with columns for **Project**, **Overview**, **Mission**, **Key Offerings**, **What They Do Well**, and **Website**.  
 
